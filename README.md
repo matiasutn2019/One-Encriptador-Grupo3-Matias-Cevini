@@ -2,8 +2,6 @@
 
 ## Puedes ver la página [¡Haciendo clic aquí!](https://matiasutn2019.github.io/One-Encriptador-Grupo3-Matias-Cevini/)
 
----
-
 <p align="center" >
      <img width="300" heigth="200" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
 </p>
